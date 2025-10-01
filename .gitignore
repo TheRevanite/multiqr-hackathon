@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+
+# Data (Don't commit large datasets)
+data/images/
+data/labels/
+
+# Exclude all image files except demo images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+# But include demo images
+!data/demo_images/*.jpg
+!data/demo_images/*.jpeg
+!data/demo_images/*.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Output
+outputs/visualizations/*.jpg
+outputs/test_predictions.json
+
+# Jupyter
+.ipynb_checkpoints
+
+# Coverage
+.coverage
+htmlcov/
+
+# Testing
+.pytest_cache/
+.tox/
+
+# Documentation
+docs/_build/

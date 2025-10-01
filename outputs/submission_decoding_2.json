@@ -1,0 +1,2597 @@
+[
+  {
+    "image_id": "img201",
+    "qrs": [
+      {
+        "bbox": [
+          486,
+          27,
+          514,
+          76
+        ],
+        "value": "BATCH-348",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          519,
+          27,
+          546,
+          76
+        ],
+        "value": "CORP422",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          503,
+          1538,
+          532,
+          1590
+        ],
+        "value": "PHARMA783",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          362,
+          26,
+          393,
+          78
+        ],
+        "value": "B39506",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          499,
+          1654,
+          534,
+          1712
+        ],
+        "value": "181789173245821",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          377,
+          26,
+          407,
+          79
+        ],
+        "value": "MFG-907",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          294,
+          27,
+          324,
+          78
+        ],
+        "value": "728098744991195",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          717,
+          3931,
+          747,
+          3982
+        ],
+        "value": "728098744991195",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          337,
+          27,
+          367,
+          78
+        ],
+        "value": "728098744991195",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          350,
+          26,
+          379,
+          78
+        ],
+        "value": "PHARMA783",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          323,
+          27,
+          353,
+          79
+        ],
+        "value": "LOT1725",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          204,
+          27,
+          233,
+          78
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          308,
+          27,
+          338,
+          78
+        ],
+        "value": "728098744991195",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          164,
+          27,
+          193,
+          78
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          515,
+          1650,
+          548,
+          1707
+        ],
+        "value": "B97751",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          575,
+          3973,
+          602,
+          4022
+        ],
+        "value": "CORP422",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          135,
+          26,
+          165,
+          78
+        ],
+        "value": "LOT1725",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          731,
+          3934,
+          760,
+          3983
+        ],
+        "value": "B95778",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          529,
+          1645,
+          562,
+          1701
+        ],
+        "value": "BT12530",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          178,
+          27,
+          207,
+          78
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          586,
+          1843,
+          617,
+          1897
+        ],
+        "value": "BATCH-183",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          150,
+          27,
+          179,
+          78
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          121,
+          26,
+          152,
+          78
+        ],
+        "value": "B39506",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          770,
+          1771,
+          805,
+          1831
+        ],
+        "value": "REG658787",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          756,
+          1773,
+          792,
+          1833
+        ],
+        "value": "L518879",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1277,
+          1872,
+          1308,
+          1928
+        ],
+        "value": "LAB2121",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          191,
+          27,
+          220,
+          78
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          485,
+          1652,
+          520,
+          1711
+        ],
+        "value": "LOT5732",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          571,
+          1845,
+          602,
+          1899
+        ],
+        "value": "BATCH-183",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          784,
+          1648,
+          826,
+          1721
+        ],
+        "value": "PHARMA982",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1086,
+          3938,
+          1113,
+          3986
+        ],
+        "value": "BT98972",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          109,
+          26,
+          140,
+          78
+        ],
+        "value": "B39506",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          743,
+          1777,
+          778,
+          1838
+        ],
+        "value": "BATCH-740",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1390,
+          1845,
+          1423,
+          1905
+        ],
+        "value": "MFG-393",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          692,
+          3973,
+          720,
+          4024
+        ],
+        "value": "LAB2565",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          746,
+          3935,
+          775,
+          3985
+        ],
+        "value": "BATCH-983",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          703,
+          3943,
+          732,
+          3993
+        ],
+        "value": "BATCH-983",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          486,
+          48,
+          516,
+          100
+        ],
+        "value": "LOT1725",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1374,
+          1844,
+          1407,
+          1904
+        ],
+        "value": "MFG-393",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1546,
+          1857,
+          1581,
+          1919
+        ],
+        "value": "LOT6246",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          868,
+          1619,
+          911,
+          1694
+        ],
+        "value": "BATCH-845",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          689,
+          3944,
+          718,
+          3994
+        ],
+        "value": "BATCH-983",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          652,
+          1346,
+          827,
+          2171
+        ],
+        "value": "B40633",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          720,
+          3951,
+          748,
+          4002
+        ],
+        "value": "LAB2565",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1290,
+          1869,
+          1321,
+          1925
+        ],
+        "value": "LAB2121",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1101,
+          3940,
+          1129,
+          3990
+        ],
+        "value": "REG673681",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          602,
+          1843,
+          632,
+          1896
+        ],
+        "value": "MFG-907",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          971,
+          3921,
+          1001,
+          3975
+        ],
+        "value": "B39283",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          499,
+          1629,
+          535,
+          1688
+        ],
+        "value": "L285681",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          748,
+          3994,
+          776,
+          4043
+        ],
+        "value": "BATCH-348",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1488,
+          1859,
+          1523,
+          1919
+        ],
+        "value": "REG658787",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          574,
+          3937,
+          602,
+          3985
+        ],
+        "value": "LOT7298",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1274,
+          1844,
+          1312,
+          1911
+        ],
+        "value": "BATCH-506",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          798,
+          1623,
+          841,
+          1699
+        ],
+        "value": "L919273",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1072,
+          3937,
+          1099,
+          3984
+        ],
+        "value": "BATCH-167",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1473,
+          1859,
+          1507,
+          1918
+        ],
+        "value": "LAB8704",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1560,
+          1858,
+          1595,
+          1920
+        ],
+        "value": "LOT6246",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1318,
+          1858,
+          1351,
+          1918
+        ],
+        "value": "MFG-393",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1360,
+          1845,
+          1393,
+          1905
+        ],
+        "value": "MFG-393",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1454,
+          1276,
+          1642,
+          2095
+        ],
+        "value": "BT59916",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          544,
+          1642,
+          578,
+          1703
+        ],
+        "value": "BATCH-988",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1405,
+          1847,
+          1439,
+          1907
+        ],
+        "value": "PHARMA880",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1530,
+          1857,
+          1565,
+          1919
+        ],
+        "value": "LOT6246",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1330,
+          1852,
+          1363,
+          1911
+        ],
+        "value": "REG249769",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          473,
+          48,
+          504,
+          100
+        ],
+        "value": "B39506",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          718,
+          3992,
+          746,
+          4043
+        ],
+        "value": "LAB2565",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          732,
+          3993,
+          759,
+          4043
+        ],
+        "value": "LOT3944",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1135,
+          1525,
+          1163,
+          1573
+        ],
+        "value": "LOT7298",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1419,
+          1887,
+          1449,
+          1942
+        ],
+        "value": "LOT3760",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1459,
+          1857,
+          1493,
+          1918
+        ],
+        "value": "BATCH-988",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          95,
+          26,
+          126,
+          79
+        ],
+        "value": "L638614",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          570,
+          1509,
+          609,
+          1576
+        ],
+        "value": "LAB1133",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1303,
+          1864,
+          1336,
+          1922
+        ],
+        "value": "L922164",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          530,
+          1540,
+          560,
+          1593
+        ],
+        "value": "MFG-907",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          853,
+          1615,
+          898,
+          1694
+        ],
+        "value": "MFR2749",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1501,
+          1857,
+          1537,
+          1918
+        ],
+        "value": "BT13815",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1433,
+          1887,
+          1463,
+          1941
+        ],
+        "value": "B39283",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          559,
+          3934,
+          587,
+          3982
+        ],
+        "value": "LOT7298",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1092,
+          3974,
+          1120,
+          4024
+        ],
+        "value": "REG673681",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1514,
+          1856,
+          1550,
+          1918
+        ],
+        "value": "LOT3016",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1677,
+          1882,
+          1704,
+          1930
+        ],
+        "value": "BT98972",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          501,
+          1563,
+          533,
+          1619
+        ],
+        "value": "L889720",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          517,
+          1540,
+          546,
+          1591
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          760,
+          3939,
+          789,
+          3988
+        ],
+        "value": "B95778",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          764,
+          3994,
+          791,
+          4044
+        ],
+        "value": "LOT3944",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1692,
+          1882,
+          1719,
+          1930
+        ],
+        "value": "BT98972",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          516,
+          1514,
+          545,
+          1565
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          811,
+          1619,
+          855,
+          1698
+        ],
+        "value": "LOT5513",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1729,
+          1531,
+          1763,
+          1592
+        ],
+        "value": "BATCH-988",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1575,
+          1862,
+          1608,
+          1921
+        ],
+        "value": "REG249769",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1663,
+          1879,
+          1690,
+          1929
+        ],
+        "value": "LOT3944",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          811,
+          3998,
+          837,
+          4048
+        ],
+        "value": "LOT6839",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1720,
+          1890,
+          1747,
+          1939
+        ],
+        "value": "CORP422",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          592,
+          3973,
+          619,
+          4022
+        ],
+        "value": "CORP422",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          679,
+          3973,
+          708,
+          4024
+        ],
+        "value": "MFG-250",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          799,
+          1525,
+          836,
+          1590
+        ],
+        "value": "BT70222",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          705,
+          3974,
+          733,
+          4024
+        ],
+        "value": "REG673681",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1631,
+          1864,
+          1664,
+          1921
+        ],
+        "value": "B97751",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          617,
+          1846,
+          648,
+          1899
+        ],
+        "value": "L638614",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          839,
+          1615,
+          883,
+          1693
+        ],
+        "value": "LAB5052",
+        "type": "Manufacturer_Code"
+      }
+    ]
+  },
+  {
+    "image_id": "img205",
+    "qrs": [
+      {
+        "bbox": [
+          1011,
+          774,
+          1193,
+          1562
+        ],
+        "value": "L707705",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          854,
+          731,
+          1038,
+          1523
+        ],
+        "value": "L753044",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          909,
+          840,
+          1083,
+          1511
+        ],
+        "value": "LAB1422",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          886,
+          2793,
+          1286,
+          3316
+        ],
+        "value": "LOT4333",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1579,
+          2216,
+          1753,
+          2862
+        ],
+        "value": "REG195088",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1144,
+          1754,
+          1322,
+          2414
+        ],
+        "value": "B61491",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1865,
+          1578,
+          2044,
+          2340
+        ],
+        "value": "BT68759",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          900,
+          1675,
+          1076,
+          2423
+        ],
+        "value": "L432604",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1292,
+          2861,
+          1470,
+          3556
+        ],
+        "value": "L326439",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1065,
+          1625,
+          1248,
+          2339
+        ],
+        "value": "MFR5167",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          973,
+          2613,
+          1365,
+          3112
+        ],
+        "value": "L608330",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          961,
+          949,
+          1126,
+          1689
+        ],
+        "value": "REG658787",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          988,
+          1697,
+          1161,
+          2317
+        ],
+        "value": "MFG-316",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1360,
+          2519,
+          1550,
+          3244
+        ],
+        "value": "BT71045",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1797,
+          1538,
+          1977,
+          2281
+        ],
+        "value": "LOT1722",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1629,
+          2077,
+          1804,
+          2806
+        ],
+        "value": "LOT1691",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          590,
+          1711,
+          765,
+          2406
+        ],
+        "value": "B63591",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1558,
+          1340,
+          1744,
+          2162
+        ],
+        "value": "B39635",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1201,
+          2596,
+          1612,
+          3141
+        ],
+        "value": "REG390925",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1738,
+          1490,
+          1919,
+          2178
+        ],
+        "value": "MFR3864",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          396,
+          2108,
+          432,
+          2170
+        ],
+        "value": "LOT3016",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          481,
+          2106,
+          520,
+          2174
+        ],
+        "value": "MFR9105",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          509,
+          2110,
+          548,
+          2176
+        ],
+        "value": "BT40398",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          411,
+          2112,
+          447,
+          2175
+        ],
+        "value": "L919273",
+        "type": "Batch_Number"
+      }
+    ]
+  },
+  {
+    "image_id": "img210",
+    "qrs": [
+      {
+        "bbox": [
+          1137,
+          2546,
+          1313,
+          3276
+        ],
+        "value": "B61491",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1933,
+          1843,
+          1996,
+          1937
+        ],
+        "value": "FDA86053",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1933,
+          1808,
+          1993,
+          1901
+        ],
+        "value": "PHARMA248",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1057,
+          753,
+          1231,
+          1489
+        ],
+        "value": "B72411",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1115,
+          727,
+          1301,
+          1494
+        ],
+        "value": "MFR5167",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          980,
+          799,
+          1159,
+          1525
+        ],
+        "value": "BT99986",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1513,
+          949,
+          1557,
+          1024
+        ],
+        "value": "LOT6839",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          877,
+          2622,
+          1318,
+          3187
+        ],
+        "value": "LOT2012",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1245,
+          750,
+          1414,
+          1479
+        ],
+        "value": "LOT6334",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1123,
+          1732,
+          1294,
+          2440
+        ],
+        "value": "BATCH-213",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          775,
+          2731,
+          1208,
+          3276
+        ],
+        "value": "(01)49097740922250",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1185,
+          798,
+          1362,
+          1530
+        ],
+        "value": "B48184",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1646,
+          1073,
+          1832,
+          1830
+        ],
+        "value": "BT51741",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1498,
+          937,
+          1540,
+          1015
+        ],
+        "value": "BATCH-303",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          312,
+          1958,
+          488,
+          2701
+        ],
+        "value": "BT39509",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          956,
+          1639,
+          1141,
+          2402
+        ],
+        "value": "(01)91522432804238",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1100,
+          1953,
+          1157,
+          2049
+        ],
+        "value": "BT17625",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          589,
+          2291,
+          637,
+          2372
+        ],
+        "value": "112088356482725",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          452,
+          2112,
+          501,
+          2204
+        ],
+        "value": "PHARMA783",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          2066,
+          1189,
+          2233,
+          1816
+        ],
+        "value": "BATCH-155",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          448,
+          1940,
+          630,
+          2648
+        ],
+        "value": "LAB9019",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1024,
+          873,
+          1133,
+          1178
+        ],
+        "value": "PHARMA857",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1304,
+          828,
+          1475,
+          1498
+        ],
+        "value": "FDA58673",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1039,
+          1752,
+          1214,
+          2363
+        ],
+        "value": "(01)24674024372982",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1129,
+          1943,
+          1185,
+          2035
+        ],
+        "value": "BT21328",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1955,
+          1618,
+          2004,
+          1698
+        ],
+        "value": "LOT6187",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          463,
+          2665,
+          640,
+          3398
+        ],
+        "value": "GTIN4491326188491",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1811,
+          3029,
+          1867,
+          3129
+        ],
+        "value": "LOT6636",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          411,
+          1244,
+          597,
+          2010
+        ],
+        "value": "LOT5513",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          752,
+          2029,
+          802,
+          2112
+        ],
+        "value": "MFG-248",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          837,
+          1963,
+          886,
+          2051
+        ],
+        "value": "LOT3380",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          574,
+          1950,
+          747,
+          2640
+        ],
+        "value": "BT46617",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          382,
+          1985,
+          554,
+          2657
+        ],
+        "value": "BATCH-247",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1321,
+          1036,
+          1375,
+          1140
+        ],
+        "value": "CORP303",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1876,
+          2137,
+          1912,
+          2198
+        ],
+        "value": "BT13815",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1140,
+          1859,
+          1181,
+          1927
+        ],
+        "value": "587338027526818",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1950,
+          1487,
+          2007,
+          1584
+        ],
+        "value": "BATCH-862",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          580,
+          2321,
+          623,
+          2393
+        ],
+        "value": "FDA63376",
+        "type": "Regulator/GTIN"
+      }
+    ]
+  },
+  {
+    "image_id": "img225",
+    "qrs": [
+      {
+        "bbox": [
+          3495,
+          2972,
+          3541,
+          3004
+        ],
+        "value": "BT17625",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3626,
+          2971,
+          3673,
+          3004
+        ],
+        "value": "MFG-516",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1440,
+          930,
+          1542,
+          1001
+        ],
+        "value": "FDA37508",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          3649,
+          2973,
+          3695,
+          3005
+        ],
+        "value": "BT17625",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1406,
+          941,
+          1507,
+          1019
+        ],
+        "value": "L913070",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          797,
+          1752,
+          899,
+          1830
+        ],
+        "value": "BATCH-253",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          494,
+          2172,
+          574,
+          2233
+        ],
+        "value": "PHARMA240",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          3493,
+          2991,
+          3535,
+          3025
+        ],
+        "value": "LAB2565",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1675,
+          2012,
+          1780,
+          2092
+        ],
+        "value": "REG673681",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          2388,
+          668,
+          2457,
+          719
+        ],
+        "value": "BATCH-128",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3641,
+          2993,
+          3684,
+          3028
+        ],
+        "value": "BT46765",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3672,
+          2975,
+          3719,
+          3008
+        ],
+        "value": "MFG-516",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          2672,
+          764,
+          2763,
+          827
+        ],
+        "value": "LOT8397",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1325,
+          926,
+          1433,
+          1006
+        ],
+        "value": "L160555",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1333,
+          2057,
+          1430,
+          2129
+        ],
+        "value": "PHARMA119",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1058,
+          1712,
+          1154,
+          1789
+        ],
+        "value": "LOT8430",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          823,
+          1731,
+          926,
+          1810
+        ],
+        "value": "B19485",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3032,
+          980,
+          3086,
+          1019
+        ],
+        "value": "MFG-925",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1373,
+          921,
+          1482,
+          1003
+        ],
+        "value": "B68860",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2643,
+          781,
+          2741,
+          851
+        ],
+        "value": "MFR9827",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1317,
+          689,
+          1645,
+          1220
+        ],
+        "value": "MFR4631",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          878,
+          1696,
+          972,
+          1768
+        ],
+        "value": "BT39509",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2962,
+          1017,
+          3018,
+          1058
+        ],
+        "value": "BT98972",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          791,
+          1787,
+          899,
+          1865
+        ],
+        "value": "LOT8615",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2312,
+          1800,
+          2390,
+          1858
+        ],
+        "value": "CORP340",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          820,
+          1697,
+          919,
+          1770
+        ],
+        "value": "REG982998",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          906,
+          1751,
+          1000,
+          1824
+        ],
+        "value": "FDA48723",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1818,
+          1866,
+          2116,
+          2336
+        ],
+        "value": "GTIN5209267408161",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          2654,
+          751,
+          2743,
+          815
+        ],
+        "value": "B31980",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3697,
+          2976,
+          3745,
+          3010
+        ],
+        "value": "L137305",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          497,
+          2150,
+          583,
+          2216
+        ],
+        "value": "FDA71559",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          908,
+          1794,
+          1009,
+          1862
+        ],
+        "value": "GTIN5563451639157",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1054,
+          1765,
+          1157,
+          1841
+        ],
+        "value": "BT40295",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          668,
+          1724,
+          774,
+          1802
+        ],
+        "value": "L919273",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1315,
+          1880,
+          1428,
+          1961
+        ],
+        "value": "BATCH-138",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3662,
+          2993,
+          3706,
+          3028
+        ],
+        "value": "LOT7085",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2931,
+          1019,
+          2984,
+          1059
+        ],
+        "value": "BATCH-293",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          918,
+          797,
+          1803,
+          1213
+        ],
+        "value": "L518879",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2387,
+          693,
+          2471,
+          753
+        ],
+        "value": "PHARMA880",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          902,
+          1834,
+          1007,
+          1909
+        ],
+        "value": "MFR7774",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1190,
+          1991,
+          1290,
+          2069
+        ],
+        "value": "PHARMA623",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          934,
+          1743,
+          1031,
+          1813
+        ],
+        "value": "L882145",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3157,
+          2204,
+          3221,
+          2254
+        ],
+        "value": "LOT4333",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          815,
+          1771,
+          922,
+          1847
+        ],
+        "value": "LAB9952",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          2361,
+          668,
+          2424,
+          714
+        ],
+        "value": "B64819",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2722,
+          973,
+          2786,
+          1020
+        ],
+        "value": "L232467",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          899,
+          1856,
+          1006,
+          1938
+        ],
+        "value": "MFG-552",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          882,
+          1777,
+          974,
+          1852
+        ],
+        "value": "B91800",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2887,
+          1110,
+          2943,
+          1151
+        ],
+        "value": "BT98972",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3788,
+          2994,
+          3837,
+          3031
+        ],
+        "value": "FDA54381",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          824,
+          1811,
+          929,
+          1890
+        ],
+        "value": "MFG-177",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          3799,
+          2975,
+          3847,
+          3011
+        ],
+        "value": "L753044",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2415,
+          666,
+          2494,
+          728
+        ],
+        "value": "B64819",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2327,
+          2089,
+          2421,
+          2157
+        ],
+        "value": "LOT8430",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          3023,
+          1000,
+          3076,
+          1039
+        ],
+        "value": "B19803",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1468,
+          2025,
+          1573,
+          2103
+        ],
+        "value": "B19776",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          891,
+          1731,
+          988,
+          1801
+        ],
+        "value": "L882145",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2645,
+          1930,
+          2944,
+          2379
+        ],
+        "value": "LOT7265",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2990,
+          1018,
+          3044,
+          1058
+        ],
+        "value": "L518879",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2898,
+          1019,
+          2955,
+          1059
+        ],
+        "value": "LAB6496",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          858,
+          1711,
+          958,
+          1789
+        ],
+        "value": "PHARMA623",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          2914,
+          1148,
+          2969,
+          1189
+        ],
+        "value": "570497828978387",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1524,
+          1980,
+          1638,
+          2068
+        ],
+        "value": "LOT4499",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2881,
+          1053,
+          2934,
+          1093
+        ],
+        "value": "BATCH-293",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2295,
+          724,
+          2354,
+          767
+        ],
+        "value": "B68224",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          2345,
+          931,
+          2399,
+          972
+        ],
+        "value": "BT93978",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          603,
+          2097,
+          707,
+          2171
+        ],
+        "value": "B31980",
+        "type": "Batch_Number"
+      }
+    ]
+  },
+  {
+    "image_id": "img240",
+    "qrs": [
+      {
+        "bbox": [
+          371,
+          2100,
+          554,
+          2910
+        ],
+        "value": "CORP884",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1653,
+          1917,
+          1834,
+          2702
+        ],
+        "value": "L301407",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1235,
+          1484,
+          1703,
+          2065
+        ],
+        "value": "GTIN5049317478102",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          728,
+          2080,
+          898,
+          2809
+        ],
+        "value": "B78121",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1833,
+          1235,
+          1867,
+          1293
+        ],
+        "value": "BT59916",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          685,
+          1143,
+          860,
+          1926
+        ],
+        "value": "MFG-143",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          579,
+          2169,
+          756,
+          2831
+        ],
+        "value": "CORP208",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1736,
+          1823,
+          1921,
+          2607
+        ],
+        "value": "PHARMA880",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          700,
+          1591,
+          752,
+          1681
+        ],
+        "value": "CORP456",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          636,
+          2133,
+          814,
+          2812
+        ],
+        "value": "FDA48723",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1832,
+          1214,
+          1868,
+          1275
+        ],
+        "value": "BT13815",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1902,
+          1928,
+          2088,
+          2660
+        ],
+        "value": "BT21328",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1647,
+          764,
+          1827,
+          1541
+        ],
+        "value": "MFR9827",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          855,
+          1279,
+          1028,
+          1989
+        ],
+        "value": "LAB1284",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          513,
+          2163,
+          697,
+          2807
+        ],
+        "value": "MFR4940",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          948,
+          1242,
+          1130,
+          1985
+        ],
+        "value": "(01)88167100359516",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1409,
+          1514,
+          1577,
+          2187
+        ],
+        "value": "B72411",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          586,
+          2191,
+          694,
+          2501
+        ],
+        "value": "B61491",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          701,
+          1623,
+          752,
+          1709
+        ],
+        "value": "REG366633",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1817,
+          1234,
+          1854,
+          1295
+        ],
+        "value": "MFG-636",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1871,
+          2330,
+          1914,
+          2407
+        ],
+        "value": "BATCH-842",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1996,
+          2332,
+          2044,
+          2413
+        ],
+        "value": "112088356482725",
+        "type": "Regulator/GTIN"
+      },
+      {
+        "bbox": [
+          1280,
+          2193,
+          1454,
+          2908
+        ],
+        "value": "LAB8587",
+        "type": "Manufacturer_Code"
+      },
+      {
+        "bbox": [
+          1084,
+          2162,
+          1512,
+          2733
+        ],
+        "value": "BATCH-472",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          260,
+          2266,
+          692,
+          2812
+        ],
+        "value": "LOT8815",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1856,
+          2327,
+          1900,
+          2406
+        ],
+        "value": "LOT5513",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1679,
+          2058,
+          1785,
+          2331
+        ],
+        "value": "B68860",
+        "type": "Batch_Number"
+      },
+      {
+        "bbox": [
+          1832,
+          2372,
+          1866,
+          2435
+        ],
+        "value": "B86361",
+        "type": "Batch_Number"
+      }
+    ]
+  }
+]
