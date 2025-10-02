@@ -147,7 +147,7 @@ We provide a complete conda environment file with CUDA-enabled PyTorch as specif
 
 ```powershell
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/TheRevanite/multiqr-hackathon.git
 cd multiqr-hackathon
 
 # Create environment from provided file
@@ -164,7 +164,7 @@ If you prefer to create your own environment or don't have conda:
 #### 2.1. Create Virtual Environment
 ```powershell
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/TheRevanite/multiqr-hackathon.git
 cd multiqr-hackathon
 
 # Create virtual environment
