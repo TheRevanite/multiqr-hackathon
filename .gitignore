@@ -30,12 +30,9 @@ env/
 ENV/
 
 
-# Data (Don't commit large datasets)
-data/annotations.json
+# Data (Don't commit large datasets - except LFS tracked files)
 data/images/
 data/labels/
-# Model weights (large files)
-runs/MED1C_Detection/weights/best_faster_rcnn.pth
 
 # Exclude all image files except demo images
 *.jpg
